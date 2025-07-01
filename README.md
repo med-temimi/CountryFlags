@@ -17,7 +17,7 @@
 ### 1. Unicode Flag Generator
 ```swift
 extension String {
-    /// Converts ISO 3166-1 codes to emoji flags ("US" → "🇺🇸")
+    /// Converts ISO 3166-1 codes to emoji flags ("TN" → "🇹🇳")
     func toFlag() -> String {
         guard self.count == 2 else { return "" }
         return self.uppercased()
