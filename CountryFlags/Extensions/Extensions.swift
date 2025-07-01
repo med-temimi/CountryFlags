@@ -5,7 +5,6 @@
 //  Created by Macbook Pro  M'ed on 30/06/25.
 //
 
-import Foundation
 import SwiftUI
 
 extension View {
